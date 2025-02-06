@@ -20,13 +20,13 @@ This project analyzes retail store sales data using **Python, SQL, and Power BI*
    - 💳 Most popular payment methods
 
 ### 1. Heatmap of Numerical Variables
-![Heatmap](visualizations/corr_matrix.jpg)
+![Heatmap](visualizations/corr_matrix.png)
 
 ### 2. Category VS Total Spent
-![](visualizations/category_vs_total_spent.jpg)
+![](visualizations/category_vs_total_spent.png)
 
 ### 3. Category VS Discount VS Total Spent
-![]
+![](visualizations/cat_vs_discount_vs_total_spent.png)
 
 ## 🛠️ Tools & Technologies
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
