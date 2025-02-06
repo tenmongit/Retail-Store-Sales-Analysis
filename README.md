@@ -52,7 +52,7 @@ The final dashboard includes:
 - **Monthly Sales Trend**
 - **Top Products**
 - **Payment Method Preferences**
-
+![Dashboard](dashboard.jpg)
 
 ## 📬 Contact
 For any questions, feel free to reach out!
